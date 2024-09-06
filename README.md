@@ -34,5 +34,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)<br/>
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 💬 Contact 
-📧 liftaah@gmail.com
+## 💬 Connect with me!
+<p align="left">
+<a href="https://linkedin.com/in/liftaannisa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="liftaannisa" height="30" width="40" /></a>
+<a href="https://instagram.com/fajrul.fs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lifta.anh" height="30" width="40" /></a>
+</p>
